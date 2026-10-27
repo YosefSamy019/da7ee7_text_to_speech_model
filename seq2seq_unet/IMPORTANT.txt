@@ -1,0 +1,3 @@
+that's all because of u
+the decoder part can cheat the next token, u ve forget to mask the teacher forcing inputs
+go do that right now
